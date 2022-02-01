@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "replace tire",
+      "price": 2000,
+      "time": 2,
+      "img":"https://i.ibb.co/pPwQygF/1-jpg.jpg"
+    },
+    {
+      "id": 2,
+      "name": "jamal vueya",
+      "price": 300,
+      "time": 2,
+      "img": "https://i.ibb.co/bWLPpnv/2-jpg.jpg"
+    },
+    {
+      "id": 3,
+      "name": "kamal uddin",
+      "price": 10,
+      "time": 2,
+      "img": "https://i.ibb.co/NjT8DhV/3-jpg.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shahin molla",
+      "price": 600,
+      "time": 2,
+      "img": "https://i.ibb.co/hDZjwc4/4-jpg.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chinha mamla",
+      "price": 100,
+      "time": 2,
+      "img": "https://i.ibb.co/BgnLkD3/5-jpg.jpg"
+    }
+  ]
